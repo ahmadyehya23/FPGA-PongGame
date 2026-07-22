@@ -34,6 +34,6 @@ module top (
     // Temporary display
     assign VGA_R = video_on ? 4'hF : 4'h0;
     assign VGA_G = 4'h0;
-    assign VGA_B = 4'h0;
+    assign VGA_B = 4'h0; 
 
 endmodule
