@@ -1,5 +1,5 @@
 module vga_controller (
-    inout logic clk,
+    input logic clk,
     input logic reset,
 
     output logic hsync,
