@@ -2,7 +2,9 @@
 db/
 incremental_db/
 output_files/
-simulation/
+
+# Questa generated simulation files
+simulation/questa/
 
 # Quartus temporary files
 *.qws
